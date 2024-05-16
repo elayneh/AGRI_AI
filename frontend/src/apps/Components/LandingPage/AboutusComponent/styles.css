@@ -1,0 +1,4 @@
+.current-slide {
+  filter: "blur(5px)";
+  transform: "scale(1.2)";
+}
